@@ -7,7 +7,7 @@ This project showcases my skills, projects, and services as a frontend web devel
 ---
 
 ## 🌐 Live Website
-👉 [View Live Site]
+👉 [https://paakwesitechieportfolio.netlify.app]
 
 ---
 
@@ -44,7 +44,6 @@ This portfolio was built to:
 
 - 📧 Email: paakwesitechie@gmail.com  
 - 💬 WhatsApp: +233531195205
--  
 
 ---
 
